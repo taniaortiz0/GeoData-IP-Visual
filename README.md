@@ -1,5 +1,17 @@
 # Python-Image-Processing-Script for Geophysical Data
 
+
+First, you need to download the latest python version on the official website of Python. Use the pip command to get the modules you want.
+
+pip install numpy
+
+pip install matplotlib
+
+pip install xarray
+
+pip install netCDF4
+
+
 import xarray as xr
 
 import matplotlib.pyplot as plt
