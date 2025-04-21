@@ -1,4 +1,4 @@
-# Python-Image-Processing-Script
+# Python-Image-Processing-Script for Geophysical Data
 
 import xarray as xr
 
