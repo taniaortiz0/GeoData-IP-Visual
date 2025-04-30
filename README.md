@@ -53,7 +53,7 @@ im2 = axes[1].imshow(amplitude_high_gain_data, cmap='gray', aspect='auto')
 
 axes[1].set_title('Amplitude High Gain')
 
-fig.colorbar(im2, ax=axes[1]) 
+fig.colorbar(im2, ax=axes[1])
 
 plt.tight_layout() 
 
@@ -74,3 +74,11 @@ plt.figtext(0.35, 0.99, lon_str, fontsize=8, va='center')
 plt.figtext(0.33, 0.02, altitude_str, fontsize=8, va='bottom')
 
 plt.show()
+
+__________________________________________________________________________________________________________________________
+
+## Radargram generated from a NetCDF file using Python
+
+![python radargram](https://github.com/user-attachments/assets/c83e7336-0c5c-45cb-b741-8001e43eeacf)
+
+
