@@ -1,7 +1,13 @@
 # Python Image Processing Script for Geophysical Data
 
+## 🎯 Objective
+* The aim of this project is to image process a certain file called a NetCDF file.
+* This file contains scientific data and can include geographical images. The NetCDF file being utilized is to image process it using python.
+---
 
 First, you need to download the latest python version on the official website of Python. Use the pip command to get the modules you want via command line. 
+
+---
 
 ##  📂 Python Modules 
 <pre>pip install numpy
