@@ -2,7 +2,7 @@
 
 ## 🎯 Objective
 
-* To process and visualize geophysical data stored in a .nc file using Python. The file follows the NetCDF4 data model and format, and the goal is to extract and render the data as a geographical image through image processing techniques.
+* To process and visualize geophysical data stored in a .nc file using Python. The file follows the NetCDF4 data model and format, and the goal is to extract and render the data as a geographical image through certain python libraries.
 ---
 
 First, you need to download the latest python version on the official website of Python. Use the pip command to get the modules you want via command line. 
