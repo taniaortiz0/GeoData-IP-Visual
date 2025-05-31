@@ -1,8 +1,8 @@
 # Python Image Processing Script for Geophysical Data
 
 ## 🎯 Objective
-* The aim of this project is to image process a certain file called a NetCDF file.
-* This file contains scientific data and can include geographical images. The NetCDF file being utilized is to image process it using python.
+
+* To process and visualize geophysical data stored in a .nc file using Python. The file follows the NetCDF4 data model and format, and the goal is to extract and render the data as a geographical image through image processing techniques.
 ---
 
 First, you need to download the latest python version on the official website of Python. Use the pip command to get the modules you want via command line. 
@@ -10,6 +10,7 @@ First, you need to download the latest python version on the official website of
 ---
 
 ##  📂 Python Modules 
+
 <pre>pip install numpy
 
 pip install matplotlib
@@ -92,6 +93,7 @@ plt.show()
 __________________________________________________________________________________________________________________________
 
 ## 📊 Results
+
 ### Radargram generated from a NetCDF file using Python
 
 ![python radargram](https://github.com/user-attachments/assets/c83e7336-0c5c-45cb-b741-8001e43eeacf)
