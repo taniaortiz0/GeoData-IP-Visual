@@ -23,7 +23,8 @@ pip install netCDF4 </pre>
 
 ## 🗒️ Python Script
 
-This python script will be utilized to display radargrams with visualization.
+This python script will be utilized to display radargrams with visualization. Modifying the file path of the .nc file, importing relevant libraries, and extracting data values is what the script entails.
+
 
 ```python
   
@@ -94,11 +95,34 @@ plt.show()
 
 __________________________________________________________________________________________________________________________
 
+## Note:
+
+I will only provide two radargrams with no sensitive information (scientific data values and geographic area)
+
+---
+
 ## 📊 Results
 
 ### Radargrams Generated through Image Processing Script
 
-![image](https://github.com/user-attachments/assets/0a64e101-5e99-4199-9f4f-17b904e29962)
+#### Radargram 1 
+
+![radargram 1](https://github.com/user-attachments/assets/b830cf67-c581-43ba-b671-9d05c57c58d4)
+
+
+#### Radargram 2
+
+![r3](https://github.com/user-attachments/assets/f624ed3a-248f-43a8-8a93-334fefb9f9f4)
+
+---
+
+## References
+
+I. National Aeronautics and Space Administration (NASA) MUREP INCLUDES Proactive Pathways of Excellence to Engage Minority Students in Aerospace Engineering (PEMS)
+II. The University of Texas Institute of Geophysics
+
+
+
 
 
 
