@@ -23,6 +23,8 @@ pip install netCDF4 </pre>
 
 ## 🗒️ Python Script
 
+This python script will be utilized to display radargrams with visualization.
+
 ```python
   
 import xarray as xr
@@ -94,8 +96,15 @@ ________________________________________________________________________________
 
 ## 📊 Results
 
-### Radargram generated from a NetCDF file using Python
+### Radargrams Generated through Image Processing Script
 
-![python radargram](https://github.com/user-attachments/assets/c83e7336-0c5c-45cb-b741-8001e43eeacf)
+![image](https://github.com/user-attachments/assets/0a64e101-5e99-4199-9f4f-17b904e29962)
+
+
+
+
+
+
+
 
 
