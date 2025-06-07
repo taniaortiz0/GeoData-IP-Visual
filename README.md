@@ -97,7 +97,7 @@ ________________________________________________________________________________
 
 ## Note:
 
-I will only provide two radargrams with no sensitive information (scientific data values and geographic area) as this project was completed through a summer training opportunity with the National Aeronautics and Space Administration (NASA) MUREP INCLUDES Proactive Pathways of Excellence to Engage Minority Students in Aerospace Engineering (PEMS) and The University of Texas Institute of Geophysics. 
+I will only provide two radargrams with no sensitive information (scientific data values and geographic area) as this project was completed through a summer research training opportunity with the National Aeronautics and Space Administration (NASA) MUREP INCLUDES Proactive Pathways of Excellence to Engage Minority Students in Aerospace Engineering (PEMS) and The University of Texas Institute of Geophysics. 
 
 ---
 
