@@ -1,4 +1,4 @@
-# Python Image Processing Script for Geophysical Data
+# Python Image Processing Script for Geospatial Data
 
 ## 🎯 Objective
 
