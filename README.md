@@ -36,7 +36,7 @@ import numpy as np
 
 import netCDF4 as nc
 
-file_path = r"C:\your file_path .nc”
+file_path = r"C:\your file_path.nc"
 
 ds = xr.open_dataset(file_path)
 
@@ -72,13 +72,13 @@ fig.colorbar(im2, ax=axes[1])
 
 plt.tight_layout() 
 
-time_str = f"Time: {time_data}"
+time_str = f"Time: {time_data[0]}"
 
-lat_str = f"Latitude: {lat_data}"
+lat_str = f"Latitude: {lat_data[0]}"
 
-lon_str = f"Longitude: {lon_data}"
+lon_str = f"Longitude: {lon_data[0]}"
 
-altitude_str = f"Altitude: {altitude_data}"
+altitude_str = f"Altitude: {altitude_data[0]}"
 
 plt.figtext(0.70, 0.98, time_str, fontsize=8, va='center')
 
