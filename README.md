@@ -1,4 +1,4 @@
-# Python Image Processing Script for Geospatial Data
+#  Geospatial Image Processing and Visualization
 
 ## 🎯 Objective
 
@@ -21,9 +21,9 @@ pip install netCDF4 </pre>
 
 ---
 
-## 🗒️ Python Script
+## 🐍 Python
 
-This python script will be utilized to display radargrams with visualization. Modifying the file path of the .nc file, importing relevant libraries, and extracting data values is what the script entails.
+Python will be utilized to display radargrams with visualization. Modifying the file path of the .nc file, importing relevant libraries, and extracting data values is what the process entails.
 
 
 ```python
@@ -91,7 +91,6 @@ plt.figtext(0.33, 0.02, altitude_str, fontsize=8, va='bottom')
 plt.show()
 
 ```
-
 
 __________________________________________________________________________________________________________________________
 
