@@ -73,12 +73,6 @@ plt.show()
 
 __________________________________________________________________________________________________________________________
 
-## Note:
-
-I will only provide two radargrams with no sensitive information (scientific data values and geographic area) as this project was completed through a summer research training opportunity.
-
----
-
 ## 📊 Results
 
 ### Radargrams Generated through Image Processing Script
