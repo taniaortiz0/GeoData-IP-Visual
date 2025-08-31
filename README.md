@@ -64,14 +64,6 @@ ________________________________________________________________________________
 
 ---
 
-## References
-
-1) National Aeronautics and Space Administration (NASA) MUREP INCLUDES Proactive Pathways of Excellence to Engage Minority Students in Aerospace Engineering (PEMS)
-2) The University of Texas Institute of Geophysics 
-
-
-
-
 
 
 
