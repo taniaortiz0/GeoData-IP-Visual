@@ -33,7 +33,7 @@ ________________________________________________________________________________
 
 ## 📊 Results
 
-### Radargrams Generated through Image Processing Script
+### Radargrams Generated through Image Processing
 
 #### Radargram 1 
 
